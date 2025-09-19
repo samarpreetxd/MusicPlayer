@@ -17,7 +17,7 @@ It supports playlists, playback controls, volume, and progress sliders.
 
 ## Build Instructions
 ```bash
-git clone https://github.com/yourusername/qt-music-player.git
+git clone https://github.com/samarpreetxd/qt-music-player.git
 cd qt-music-player
 mkdir build && cd build
 cmake ..
